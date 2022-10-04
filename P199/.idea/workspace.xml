@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19286e6a-9b6b-4416-bdc0-ec23c1813df5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercise6_4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6_6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6_6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6_6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6_6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6_6/Exercise6_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6_6/out/production/Exercise6_6/Exercise6_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6_6/out/production/Exercise6_6/MyPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise6_6/src/Exercise6_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P199.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P199/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P199/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P200/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P200/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P200/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P200/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P200/P200.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P200/out/production/P200/Car2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P200/out/production/P200/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P200/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FenaPWMC3Q98Fk11B87SRrBm6D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/402-023/IdeaProjects/P199"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19286e6a-9b6b-4416-bdc0-ec23c1813df5" name="Changes" comment="" />
+      <created>1664861482989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664861482989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
