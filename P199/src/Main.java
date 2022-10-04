@@ -3,7 +3,6 @@ class Car{
     String gearType;
     int door;
 
-
     Car() {}
 
     Car(String c, String g, int d){
