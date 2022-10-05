@@ -6,16 +6,20 @@ class Car2{
     Car2() {
         this("white", "auto", 4);
     }
-
     Car2(String color){
-        this(color, "auto", 4);
+        this(color, "auto", 5);
     }
 
-    Car2(String color, String geraType, int door){
-        this.color = color;
-        this.gearType = geraType;
-        this.door = door;
+    Car2(String c, String g, int d){
+        color = c;
+        gearType = g;
+        door = d;
     }
+//    Car2(String color, String gearType, int door){
+//        this.color = color;
+//        this.gearType = gearType;
+//        this.door = door;
+//    }
 }
 
 public class Main {
