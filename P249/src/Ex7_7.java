@@ -10,6 +10,7 @@ class Ex7_7 {
         car = fe; // car = (Car)fe; 형병환 생략됨
         car.drive(); // 가능
 //      car.wather(); //불가능
+        System.out.println(car instanceof FireEngine); //형병환 가능한지 확인
         fe2 = (FireEngine)car; //형변환 생략 불가능
         fe2.water();
     }

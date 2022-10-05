@@ -2,95 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37032368-c5e0-47ce-8917-1f5813c8727f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/ExGetSetPerson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/out/production/ExGetSetPerson/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/out/production/ExGetSetPerson/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExMethod/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExMethod/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExMethod/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExMethod/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExMethod/ExMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExMethod/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop1/ExOop1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop1/out/production/ExOop1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop1/out/production/ExOop1/second.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop1/src/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/ExOop2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/out/production/ExOop2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/out/production/ExOop2/modifierTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/out/production/ExOop2/oopOne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/src/modifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop2/src/oopOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop3/ExOop3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop3/out/production/ExOop3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop3/out/production/ExOop3/Second.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop3/out/production/ExOop3/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOop3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/P244Extends.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/out/production/P244Extends/Ex7_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/out/production/P244Extends/SmartTv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/out/production/P244Extends/Tv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/src/Ex7_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P329.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex9_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P210static/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P210static/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P249/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../P249/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../P249/out/production/P249/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/out/production/P249/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../P249/out/production/P249/Ex7_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/out/production/P249/Ex7_7.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../P249/out/production/P249/FireEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/out/production/P249/FireEngine.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../P249/src/Ex7_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/src/Ex7_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/helloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/encapsulation/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/encapsulation/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx1/second.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx2/modifierTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx2/oopOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx3/Second.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx3/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/encapsulation/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/encapsulation/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx1/second.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx2/modifierTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx2/oopOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P329.iml" beforeDir="false" afterPath="$PROJECT_DIR$/P329overriding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/P329/Ex9_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/P329/Ex9_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex9_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/402-023/IdeaProjects/P329"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
