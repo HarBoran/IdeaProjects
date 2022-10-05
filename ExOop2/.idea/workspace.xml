@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f386171-4555-4214-920a-aa9112cb673b" name="Changes" comment="">
+    <list default="true" id="37a115f7-fa56-412c-872f-93e1ef7b9236" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/ExGetSetPerson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/out/production/ExGetSetPerson/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/out/production/ExGetSetPerson/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExGetSetPerson/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExOop1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExOop1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExOop1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExOop1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExOop1/ExOop1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExOop1/out/production/ExOop1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExOop1/out/production/ExOop1/second.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExOop1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExOop1/src/second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExOop2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopOne.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/ExOppHelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/encapsulation/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/oopEx1/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/oopEx1/second.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/oopEx2/Main.java" afterDir="false" />
@@ -25,7 +48,7 @@
       <change afterPath="$PROJECT_DIR$/../P244Extends/out/production/P244Extends/SmartTv.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P244Extends/out/production/P244Extends/Tv.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P244Extends/src/Ex7_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P210static/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P210static/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../P249/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../P249/out/production/P249/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/out/production/P249/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../P249/out/production/P249/Ex7_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/out/production/P249/Ex7_7.class" afterDir="false" />
@@ -61,37 +84,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Fec2vVFdtuKTfA80IEDLib9wep" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2FhCiJgY3zpo6POXtiHVmlNQv9L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/402-023/IdeaProjects/P210static&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9f386171-4555-4214-920a-aa9112cb673b" name="Changes" comment="" />
-      <created>1664855788425</created>
+      <changelist id="37a115f7-fa56-412c-872f-93e1ef7b9236" name="Changes" comment="" />
+      <created>1664935055251</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664855788425</updated>
+      <updated>1664935055251</updated>
     </task>
     <servers />
   </component>
@@ -105,11 +130,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Exercise6_6$Exercise6_4.ic" NAME="Exercise6_4 Coverage Results" MODIFIED="1664859342022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

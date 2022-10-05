@@ -3,7 +3,8 @@ class Ex7_7 {
 //      Car car = new Car();
         Car car =null;
         FireEngine fe = new FireEngine();
-        FireEngine fe2 = null;
+//        FireEngine fe2 = null;
+        FireEngine fe2 = new FireEngine();
 
         fe.water();
         car = fe; // car = (Car)fe; 형병환 생략됨
