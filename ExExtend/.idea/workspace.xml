@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19286e6a-9b6b-4416-bdc0-ec23c1813df5" name="Changes" comment="">
+    <list default="true" id="5b626bde-0e88-4a1d-897f-883d77243063" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/ExAbstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/out/production/ExAbstraction/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/out/production/ExAbstraction/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/out/production/ExAbstraction/Pig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExExtend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExGetSetCalculator/ExGetSetCalculator.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExGetSetCar/ExGetSetCar.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExGetSetCarFactory/ExGetSetCarFactory.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P175StaticVariables/P175StaticVariables.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P189StaticMethod/P189StaticMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P199this.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P199this/P199this.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P200this/P200this.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P210static/P210static.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P216Test/P216Test.iml" afterDir="false" />
@@ -26,6 +43,7 @@
       <change afterPath="$PROJECT_DIR$/../P285Ex/P285Ex.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P285Ex/src/Exercise7_4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P329/P329.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P199this/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P199this/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../P269Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P269Interface/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +51,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FenaPWMC3Q98Fk11B87SRrBm6D" />
+  <component name="ProjectId" id="2Fmwt8agBG8Nn5bXeqbY2qDFS1n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -47,22 +72,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/402-023/IdeaProjects/P200this"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/402-023/IdeaProjects/ExAbstraction&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="19286e6a-9b6b-4416-bdc0-ec23c1813df5" name="Changes" comment="" />
-      <created>1664861482989</created>
+      <changelist id="5b626bde-0e88-4a1d-897f-883d77243063" name="Changes" comment="" />
+      <created>1665110779247</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664861482989</updated>
+      <updated>1665110779247</updated>
     </task>
     <servers />
   </component>

@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19286e6a-9b6b-4416-bdc0-ec23c1813df5" name="Changes" comment="">
+    <list default="true" id="7582b5d0-32c6-4a7e-bc11-68ebf860bf4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/ExAbstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAbstraction/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExGetSetCalculator/ExGetSetCalculator.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExGetSetCar/ExGetSetCar.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExGetSetCarFactory/ExGetSetCarFactory.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P175StaticVariables/P175StaticVariables.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P189StaticMethod/P189StaticMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P199this.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P199this/P199this.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P200this/P200this.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P210static/P210static.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P216Test/P216Test.iml" afterDir="false" />
@@ -19,13 +26,14 @@
       <change afterPath="$PROJECT_DIR$/../P284Ex/P284Ex.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P284Ex/out/production/P284Ex/Product.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P284Ex/src/Exercise7_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P285Ex/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P285Ex/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P285Ex/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P285Ex/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P285Ex/P285Ex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P285Ex/src/Exercise7_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P285Ex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise7_4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../P329/P329.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P199this/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P199this/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../P269Interface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P269Interface/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +41,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FenaPWMC3Q98Fk11B87SRrBm6D" />
+  <component name="ProjectId" id="2FmdYJoaEp8cL3zxFHx4iNqK8m5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -52,17 +67,18 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/402-023/IdeaProjects/P200this"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/402-023/IdeaProjects/P285Ex"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="19286e6a-9b6b-4416-bdc0-ec23c1813df5" name="Changes" comment="" />
-      <created>1664861482989</created>
+      <changelist id="7582b5d0-32c6-4a7e-bc11-68ebf860bf4a" name="Changes" comment="" />
+      <created>1665101242304</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664861482989</updated>
+      <updated>1665101242304</updated>
     </task>
     <servers />
   </component>
