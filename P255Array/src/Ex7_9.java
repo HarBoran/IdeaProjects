@@ -46,7 +46,7 @@ class Buyer2{
             System.out.println("잔액이 부족합니다");
             return;
         }
-        money -=p.price;
+        money -= p.price;
         bonusPoint += p.bonusPoint;
 /*      Buyer2의 bonusPoint  Product2의 bonusPoint  */
 //        System.out.println(i);

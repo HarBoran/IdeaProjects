@@ -2,68 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17228821-d182-4669-8df3-027ff9506996" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExGetSetPerson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ExGetSetPerson/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ExGetSetPerson/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/ExOppHelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/encapsulation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/oopEx1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/oopEx1/second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/oopEx2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/oopEx2/modifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/oopEx2/oopOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExOppHelloWorld/src/oopEx3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/P244Extends.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/out/production/P244Extends/Ex7_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/out/production/P244Extends/SmartTv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/out/production/P244Extends/Tv.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P244Extends/src/Ex7_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P210static/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P210static/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P249/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P249/out/production/P249/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/out/production/P249/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P249/out/production/P249/Ex7_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/out/production/P249/Ex7_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P249/out/production/P249/FireEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/out/production/P249/FireEngine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P249/src/Ex7_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P249/src/Ex7_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/helloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/encapsulation/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/encapsulation/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx1/second.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx2/modifierTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx2/oopOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx3/Second.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/out/production/helloWorld/oopEx3/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/encapsulation/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/encapsulation/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx1/second.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx2/modifierTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx2/oopOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloWorld/src/oopEx3/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P255Array/src/blanc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExExtend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExExtend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P255Array/out/production/P255Array/Buyer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P255Array/out/production/P255Array/Buyer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P255Array/out/production/P255Array/Ex7_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P255Array/out/production/P255Array/Ex7_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P255Array/src/Ex7_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P255Array/src/Ex7_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/402-023/IdeaProjects/ExGetSetPerson",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
