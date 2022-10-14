@@ -2,55 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4a4ef7e-5a0d-4406-8659-1f7235b0d0f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Eximport/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eximport/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eximport/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Eximport/Eximport.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P255Array/src/blanc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P270InnerClass/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P270InnerClass/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P270InnerClass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P270InnerClass/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P270InnerClass/P270InnerClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P270InnerClass/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex/P287Ex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex/out/production/P287Ex/Exercise7_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex/out/production/P287Ex/Outer$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex/out/production/P287Ex/Outer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex/src/Exercise7_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex2/P287Ex2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex2/out/production/P287Ex2/Outer$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex2/out/production/P287Ex2/Outer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P287Ex2/src/Exercise7_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P288Ex/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P288Ex/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P288Ex/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P288Ex/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P288Ex/P288Ex.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P288Ex/out/production/P288Ex/Exercise7_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P288Ex/out/production/P288Ex/Outer$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P288Ex/out/production/P288Ex/Outer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P288Ex/src/Exercise7_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P302Debug.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/P302Debug/tryEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExExtend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExExtend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExGetSetPerson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExGetSetPerson/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P255Array/out/production/P255Array/Buyer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P255Array/out/production/P255Array/Buyer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P255Array/out/production/P255Array/Ex7_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../P255Array/out/production/P255Array/Ex7_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P255Array/src/Ex7_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P255Array/src/Ex7_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/P394ArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/out/production/P394ArrayList/arrayListEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/out/production/P394ArrayList/arrayListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/out/production/P394ArrayList/hashMapEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/HashSetEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/LinkedListEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/arrayListEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/arrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/hashMapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/hashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/sortEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P296/src/Ex8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P296/src/Ex8_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P296/src/Ex8_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P296/src/Ex8_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P320Ex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P320Ex/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +52,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/402-023/IdeaProjects/P320Ex"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
