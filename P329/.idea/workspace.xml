@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37032368-c5e0-47ce-8917-1f5813c8727f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/P394ArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/out/production/P394ArrayList/arrayListEx1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/out/production/P394ArrayList/arrayListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/out/production/P394ArrayList/hashMapEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/HashSetEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/LinkedListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/arrayListEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/arrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/hashMapEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/hashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../P394ArrayList/src/sortEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P296/src/Ex8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P296/src/Ex8_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P296/src/Ex8_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../P296/src/Ex8_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P302Debug/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P302Debug/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../P320Ex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P320Ex/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="37032368-c5e0-47ce-8917-1f5813c8727f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
