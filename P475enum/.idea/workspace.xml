@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52bc7d07-d5ff-4a6a-bc9f-896f47585822" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExDateTime/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExDateTime/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExDateTime/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExDateTime/ExDateTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P475enum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P475enum/Level.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P475enum/Level1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P475enum/enumEx1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P475enum/enumEx2$Level1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P475enum/enumEx2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P475enum/enumEx3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/P475enum/enumEx3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P552Lambda/P552Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P552Lambda/src/Lambda.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GhB4GDO9LgwowFSIjmALvXyY97" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52bc7d07-d5ff-4a6a-bc9f-896f47585822" name="Changes" comment="" />
+      <created>1666830742580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666830742580</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
